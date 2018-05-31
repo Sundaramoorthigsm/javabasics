@@ -30,7 +30,7 @@ public class Date {
 	public void setMonth(int month) {
 		this.month = month;
 	}
-	public int setYear
+	public 
 	
 
 	
