@@ -1,7 +1,6 @@
 package com.basic;
 
-public class Empolyee1 {
-	
+public class Employee {
 	String Firstname;
 	String Secondname;
 	double monthlysalary;
@@ -44,8 +43,8 @@ public class Empolyee1 {
 		String f2=e2.getFirstname("Balaji");
 		String s1=e1.getSecondname("moorthi");
 		String s2=e2.getSecondname("SM");
-		double m1=e1.getMonthlysalary(30000.0);
-		double m2=e2.getMonthlysalary(45000.0);
+		double m1=e1.getMonthlysalary(20000.0);
+		double m2=e2.getMonthlysalary(25000.0);
 		System.out.println(f1);
 		System.out.println(s1);
 		System.out.println(m1);
@@ -53,9 +52,4 @@ public class Empolyee1 {
 		System.out.println(s2);
 		System.out.println(m2);
 	}
-		
-
-		
-	}
-
-
+}
