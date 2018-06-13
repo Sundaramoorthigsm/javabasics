@@ -34,7 +34,7 @@ package com.basic;
 	{
 	    System.out.println("*");
 	}
-	    System.out.println(" ");
+	    System.out.println("* ");
 	}
 	}
 	}
